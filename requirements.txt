@@ -1,0 +1,8 @@
+aiofiles
+aiohttp
+aiohttp_session
+cryptography
+pyrofork
+python-dotenv
+tgcrypto
+uvloop
